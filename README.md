@@ -20,8 +20,5 @@ This is a simple **sign-up form** project inspired by The Odin Project. It inclu
 - **CSS** (for styling)  
 - **JavaScript** (for form validation)  
 
-## **Credits**
-- **Background image by [Creator Name](https://unsplash.com/@jeremythomas) on Unsplash**  
-- **Odin logo from The Odin Project**  
 
 
